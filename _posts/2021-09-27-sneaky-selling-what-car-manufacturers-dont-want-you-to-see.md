@@ -29,11 +29,11 @@ I can hear you asking 'What's the big deal then? The car manufacturers are doing
 
 Yes, I am aware, and none of the aforementioned examples of how typography is used in car adverts sound sinister in any capacity.
 
-The sinisterness typically rears its ugly head at the end of the adverts.
+The sinister approach typically rears its ugly head at the end of the adverts.
 
-You may have noticed at the bottom of your television screens that a series of lines composed of whispy, white, blurry text appears. You've most likely never taken the time to read it due to the difficulty in seeing each letter. 
+You may have noticed at the bottom of your television screens that a series of lines composed of wispy, white, blurry text appears. You've most likely never taken the time to read it due to the difficulty in seeing each letter. This is a result of the text itself being extremely lightweight and condensed, and the squalor being at an all time maximum. The contrast will be very high too. All of these factors result in the least legible form of digital text possible.
 
-There is a reason for this, and it is not your fault. 
+There is a reason for this too.
 
 As previously stated, car manufacturers are very good at effectively using typography, however, their intentions are not always admirable. 
 
@@ -51,4 +51,4 @@ How are all of these objectives carried out in the best possible way? The typogr
 
 The subject of car adverts is fantastic for showcasing the true power of typography. From the colour, font size, placement, animations; typography truly is capable of great things. It can display information, motivate the potential customers, and add several new dimensions and discussion points to an advert. 
 
-But ultimately, it comes down to the intentions of the car manufacturer, and I emplore you to remember this the next time you see an advert for a car.
+But ultimately, it comes down to the intentions of the car manufacturer, and I implore you to remember this the next time you see an advert for a car.
