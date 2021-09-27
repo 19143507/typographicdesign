@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sneaky Selling - What Car Manufacturers Don't Want You To See
+title: Sneaky Selling - How Car Manufacturers Manipulate Their Adverts
 date: 2021-09-27T09:01:39.054Z
 image: ../uploads/khalid-alshehri-hqrd8s4mj10-unsplash.jpg
 title_color: "#ffffff"
