@@ -4,7 +4,7 @@ footer_text: Photo by Eugene Chystiakov on Unsplash
 header_feature_image: ../uploads/eugene-chystiakov-sc2tvmpvn9u-unsplash-1-.jpg
 header_text: Detailing Typography in the World of 4 Wheels!
 header_text_color: "#ffffff"
-bannerheight: 40vmax
+bannerheight: 100vh
 navbarheight: 85px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
