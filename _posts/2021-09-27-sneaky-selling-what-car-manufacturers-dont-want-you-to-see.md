@@ -2,20 +2,16 @@
 layout: post
 title: Sneaky Selling - What Car Manufacturers Don't Want You To See
 date: 2021-09-27T09:01:39.054Z
-image: ../uploads/dario-kjz_utwlc0w-unsplash.jpg
-title_color: "#ce1d1d"
-caption: Photo by Dario on Unsplash
+image: ../uploads/khalid-alshehri-hqrd8s4mj10-unsplash.jpg
+title_color: "#ffffff"
+caption: Photo by Khalid Alshehri on Unsplash
 comments: false
 ---
-## We Love Car Adverts! Right?
-
 Ah, car adverts. We've all seen them. We've all ignored them and glanced down at our phones to avoid them. Like most adverts, they're boring and don't co-exist efficiently with our continuously decreasing attention spans.
 
 But there is a more sinister side to them. This sinister approach has been in front of our eyes this whole time in the form of the typography.
 
 I guarantee that last sentence has confused you, but never fear, I am here to elaborate!
-
-
 
 ## **How Typography Manipulates The Mind**
 
@@ -26,8 +22,6 @@ Well, car adverts are actually heavily influenced by it's typography and the tex
 The text itself that represents these examples is never too large on the screen, as this would distract the viewers from the car that is being advertised. The car is rarely, if ever, not at the centre of the advert, and this is done by placing the text efficiently and carefully at different points on the screen, in a way that gives the typography its own spotlight, alongside the car on show. 
 
 Everything is structured in a extremely effective manner, and car manufacturers do deserve credit for this.
-
-
 
 ## So What's The Big Deal?
 
@@ -48,8 +42,6 @@ This blurry text is usually comprised of all the legal and complicated bits that
 Who in their right mind is going to pause the advert, get up from their sofa, squint their eyes, and read that text?
 
 Car manufacturers know this and it's why they do it, but at the same time, they're abiding by the law because at the end of the day, they are showing all of the relevant information. 
-
-
 
 ## In Conclusion
 
