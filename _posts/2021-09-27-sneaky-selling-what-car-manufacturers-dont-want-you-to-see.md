@@ -7,8 +7,6 @@ title_color: "#000000"
 caption: Photo by Dario on Unsplash
 comments: false
 ---
-## **We Love Car Adverts! Right?**
-
 Ah, car adverts. We've all seen them. We've all ignored them and glanced down at our phones to avoid them. Like most adverts, they're boring and don't co-exist efficiently with our continuously decreasing attention spans.
 
 But there is a more sinister side to them. This sinister approach has been in front of our eyes this whole time in the form of the typography.
