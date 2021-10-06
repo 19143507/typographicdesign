@@ -4,7 +4,7 @@ title: "Clear Classification - How Typography Influences a Race "
 date: 2021-10-06T06:12:47.492Z
 image: ../uploads/shen-liu-vivpq94hf_k-unsplash.jpg
 title_color: "#000000"
-caption: Photo by Hanson Lu on Unsplash
+caption: Photo by shen liu on Unsplash
 comments: false
 ---
 ### Cars come in all shapes and sizes, but the best ones for sure, are the ones that take to the track to compete. 
