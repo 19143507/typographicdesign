@@ -2,8 +2,8 @@
 layout: post
 title: "Clear Classification - How Typography Influences a Race "
 date: 2021-10-06T06:12:47.492Z
-image: ../uploads/gustavo-campos-b87zmorezro-unsplash.jpg
-title_color: "#f8f3f3"
+image: ../uploads/shen-liu-vivpq94hf_k-unsplash.jpg
+title_color: "#000000"
 caption: Photo by Hanson Lu on Unsplash
 comments: false
 ---
