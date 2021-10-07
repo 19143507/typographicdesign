@@ -8,6 +8,6 @@ bannerheight: 50vmax
 navbarheight: 85px
 logo: ../uploads/screenshot-276-.png
 favicon: ../uploads/screenshot-276-.png
-gridlayout: false
-fixednavbar: false
+gridlayout: true
+fixednavbar: true
 upzoom: true
