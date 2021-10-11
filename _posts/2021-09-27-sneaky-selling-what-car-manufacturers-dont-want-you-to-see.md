@@ -13,6 +13,8 @@ But there is a more sinister side to them. This sinister approach has been in fr
 
 I guarantee that last sentence has confused you, but never fear, I am here to elaborate!
 
+![By Mathieu Renier on Unsplash](../uploads/mathieu-renier-4wbvcqemade-unsplash.jpg)
+
 ## **How Typography Manipulates The Mind**
 
 When we think of car adverts, we think of a sleak, clean cut technological masterpiece gliding through an elegant mountain road or an empty, yet perfect city centre, being driven by a guy with a gargantuan smile plastered across his giddy face. Sound about right?
@@ -22,6 +24,8 @@ Well, car adverts are actually heavily influenced by it's typography and the tex
 The text itself that represents these examples is never too large on the screen, as this would distract the viewers from the car that is being advertised. The car is rarely, if ever, not at the centre of the advert, and this is done by placing the text efficiently and carefully at different points on the screen, in a way that gives the typography its own spotlight, alongside the car on show. 
 
 Everything is structured in a extremely effective manner, and car manufacturers do deserve credit for this.
+
+![By Joshua Koblin on Unsplash](../uploads/joshua-koblin-eqw1mpinev4-unsplash.jpg)
 
 ## So What's The Big Deal?
 
@@ -43,6 +47,8 @@ Who in their right mind is going to pause the advert, get up from their sofa, sq
 
 Car manufacturers know this and it's why they do it, but at the same time, they're abiding by the law because at the end of the day, they are showing all of the relevant information. 
 
+![By Eugene Chiastikov on Unsplash](../uploads/eugene-chystiakov-sc2tvmpvn9u-unsplash-1-.jpg)
+
 ## In Conclusion
 
 Car manufacturers are able to keep themselves clean in the eyes of the law, prevent customers from being scared off by the legal information, and use powerful and inspirational quotes to make their cars seem amazing.
@@ -52,3 +58,5 @@ How are all of these objectives carried out in the best possible way? The typogr
 The subject of car adverts is fantastic for showcasing the true power of typography. From the colour, font size, placement, animations; typography truly is capable of great things. It can display information, motivate the potential customers, and add several new dimensions and discussion points to an advert. 
 
 But ultimately, it comes down to the intentions of the car manufacturer, and I implore you to remember this the next time you see an advert for a car.
+
+![By Dario on Unsplaash](../uploads/dario-kjz_utwlc0w-unsplash.jpg)
