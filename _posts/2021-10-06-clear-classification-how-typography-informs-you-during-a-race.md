@@ -13,6 +13,8 @@ Cars come in all shapes and sizes, but the best ones, are the ones that take to 
 
 Motorsport grand prix racing is fantastic. The adrenaline it creates within the soul and the tension it scatters into the air cannot be rivalled by any other sporting industry on the planet. Yet, as I write this, it occurs to me that every piece of necessary context regarding a race cannot be personified through the camera work of a broadcasting team. Typography is required to convey all the necessary information about a race, or the particular series, to the spectators.
 
+![By Gustavo Campos on Unsplash](../uploads/gustavo-campos-b87zmorezro-unsplash.jpg)
+
 ## Where Can I Find It?
 
 Typography that is used to help the motorsport broadcasting process can be divided into many different categories.
@@ -39,6 +41,8 @@ IndyCar is a brilliant example of this, but is important to note that the typogr
 
 Two brands that are synonymous with IndyCar: Firestone and AutoNation both have relatively similar typographies as they're very heavyweight and emphatic. Obviously this is an attempt to court as many eyes as possible to their brand logo, as they try and appeal to as many racing fans as possible who may be watching IndyCar.
 
+![By Shen Liu on Unsplash](../uploads/shen-liu-vivpq94hf_k-unsplash.jpg)
+
 ## Is Typography Good For Motorsport?
 
 In short yes it definitely is because it serves so many good purposes in regards to motorsport broadcasting. It allows for brands to come in and inject our favourite racing categories with the necessary cash to keep them afloat. 
@@ -46,3 +50,5 @@ In short yes it definitely is because it serves so many good purposes in regards
 If broadcasters were unwilling to design their typography around these sponsors, there would be no high end competitive racing. 
 
 Furthermore, typography also means that viewers don't have to sit and view an entire racing without blinking as the typography on the side of the screen helps viewers stay on top of all of a race's events, making the sport far easier to follow, without having to use too much brain power, allowing for viewers o relax whilst they watch a race unfold.
+
+![Photo by Wes Tindel on Unsplash](../uploads/hanson-lu-qv0ainhru2c-unsplash.jpg)
