@@ -1,20 +1,29 @@
 ---
-layout: page
-title: About
-permalink: /about/
-date: 2020-06-29T15:36:12.231Z
 header_feature_image: /uploads/log.jpg
+title: About Us!
+subtitle: And Why cars Are Just Brilliant!
+permalink: https://carlligraphy.netlify.app/
+date: 2020-06-29T15:36:12.231Z
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+## Let's Clear Something Up
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+About you pages can typically be quite boring; so we'll keep this short and sweet so you can go and expore some of our articles!
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+## Who Are We?
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+We're Carlligraphy, (clever name, right?), and we are dedicated to explaining how cars and typography both heavily influence one another, as it can be a rather confusing combination to understand at first. 
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Established in 2021, Carlligraphy is your go to place for all things fast and typographical.
+
+This probably wasn't a combination you ever knew you needed in your life, but trust us when we say you'll wonder how you ever lived without it.
+
+## What Do We Do Exactly?
+
+From Formula 1 to Formula 4, from Rallycross to Karting; typography influences them all, and in a plethora of different ways too. Not only does typography influence the upper echelons of motor racing, but it also influences our own personal cars as well. Your very own car and the whole process of you purchasing it have been manipulated by typography. Weird right?
+
+If you would like to know more, we have several articles going into detail on these topics so please feel free to check them out!
