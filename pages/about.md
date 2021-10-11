@@ -2,7 +2,7 @@
 header_feature_image: /uploads/log.jpg
 title: About Us!
 image: ../uploads/joshua-koblin-ocgenhimlx4-unsplash.jpg
-subtitle: And Why cars Are Just Brilliant!
+subtitle: ""
 permalink: https://carlligraphy.netlify.app/
 date: 2020-06-29T15:36:12.231Z
 layout: page
