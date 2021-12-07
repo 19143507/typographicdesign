@@ -2,7 +2,8 @@
 layout: post
 title: Cash is King - The Relationship Between Sponsors & Typography
 date: 2021-12-07T02:00:25.271Z
-title_color: "#000000"
+image: ../uploads/clement-delacre-m5s9ffs1kqu-unsplash.jpg
+title_color: "#ffffff"
 comments: true
 ---
 ## What Are Sponsors In Motorsport?
