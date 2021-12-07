@@ -21,3 +21,5 @@ Before each grand prix, the drivers stand at the front of the grid to show their
 The typography is interesting to say the least because the designs do not stick to the same rules. Every new t-shirt comes with a new design, as well as a new typographic approach compared to the previous t-shirts. The biggest difference is most certainly the typographic voice variables. There doesn't appear to be any design-related continuity between the t-shirts and this is allegedly a way for Hamilton to show everyone that despite everyone having their own differences and individual qualities; at the end of the day we are all the same with the same purposes. 
 
 ![Photo by Sebastian Pociecha on Unsplash](../uploads/sebastian-pociecha-fopee0tpcbo-unsplash.jpg)
+
+## Sebastian Vettel
