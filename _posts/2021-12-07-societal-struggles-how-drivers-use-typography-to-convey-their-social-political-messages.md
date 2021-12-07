@@ -35,3 +35,19 @@ As there doesn't appear to be any design-related continuity between the t-shirts
 ![Photo by Sebastian Pociecha on Unsplash](../uploads/sebastian-pociecha-fopee0tpcbo-unsplash.jpg)
 
 ## Sebastian Vettel
+
+Another driver who has been using typography to help break down societal barriers is four time world champion and Aston Martin Cognizant F1 driver Sebastian Vettel. 
+
+His approach has been different from Lewis Hamilton's however, because whilst it involves designing clothing around a certain message, it does involve t-shirts, but rather the crash helmet on which he used to race at the Hungarian GP back in August. 
+
+For that particular weekend, Vettel opted to race with a rainbow-themed helmet to show his support for the LGBT community in response to the latest anti-LGBT laws that were recently passed by the Hungarian government, with regards to the restriction of LGBT-related education for schoolchildren. The rainbow on this helmet was also mixed in with the light pink of Aston Martin's sponsor BWT with these pink lines forming the outlines of the continents of planet earth, hereby showing a sense of worldwide unity.
+
+The typography that was used on this lid follows the typographical decisions made by BWT in terms of the company's name in logo, but irrespective of where these decisions were made, the text on Vettel's crash helmet was extremely visible for all fans to see.
+
+All of the blue graphemes had the same, large distance between the cap height and baseline to help the message  take up as much space as Vettel felt it needed. This text was rather heavyweight and had regular width too, giving it a thick and impactful look across the back where it was placed.
+
+The pink text just below, however, follows a completely different typographical approach. The space between the baseline and cap height is inconsistent, plus, the regular weight and more condensed width regarding the word spacing gives this part of the typography a much more raw and handwritten, luxury feel.
+
+These contrasting typographic approaches co-exist incredibly, it must be said, and do a great job at conveying Vettel's pro-LGBT message. 
+
+![](../uploads/vettels-lid.jpg)
