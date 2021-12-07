@@ -6,11 +6,13 @@ image: ../uploads/clement-delacre-m5s9ffs1kqu-unsplash.jpg
 title_color: "#ffffff"
 comments: true
 ---
-## What Are Sponsors In Motorsport?
-
 Motorsport is an extremely expensive industry for everyone involved and needs thunderous amounts of money to be pumped into it to keep it alive. This mostly affects the drivers in the junior ranks as they are usually the ones who are required to bring the finances to a team for that team to operate and compete. 
 
 But where do they get their money from I hear you ask? The answer is simple: sponsors.
+
+
+
+## What Are Sponsors In Motorsport?
 
 In an extremely simplified and time-saving sense, sponsors are businesses who will sign deals with drivers in order to fund them for a specific number of seasons and in return the company will receive a certain level of representation on the racetrack, depending on the amount of funding they are providing the driver with. There are a few different types of sponsorship packages that can be arranged:
 
