@@ -4,7 +4,7 @@ title: Societal Struggles - How Drivers Use Typography to Convey Their Social &
   Political Messages
 date: 2021-12-07T10:10:01.257Z
 image: ../uploads/ferhat-deniz-fors-y0neularnsk-unsplash.jpg
-title_color: "#000000"
+title_color: "#ff0000"
 caption: Photo by Ferhat Deniz Fors on Unsplash
 comments: false
 ---
